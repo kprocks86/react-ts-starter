@@ -1,0 +1,13 @@
+{
+    "prettier.jsxSingleQuote": true,
+    "prettier.useTabs": false,
+    "prettier.tabWidth": 2,
+    "prettier.jsonEnable": ["json"],
+    "prettier.singleQuote": true,
+    "prettier.semi": false,
+    "prettier.spaceBeforeFunctionParen": true,
+    "prettier.bracketSpacing": false,
+    "prettier.printWidth": 80,
+    "prettier.arrowParens": "avoid",
+    "prettier.jsxBracketSameLine": true
+}
