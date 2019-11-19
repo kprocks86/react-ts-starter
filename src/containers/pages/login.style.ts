@@ -1,8 +1,6 @@
 import { Col, Container, Row } from "react-awesome-styled-grid";
 import styled, { keyframes } from 'styled-components';
 
-import dots from '../../assets/images/dots.png'
-
 const leftRight = keyframes`
   0% {
     left: 32px
@@ -60,7 +58,6 @@ const Gradient = styled.div`
 `;
 
 const DotContainer = styled.div`
-  background-image: url(${dots});
   width: 100%;
   height: 100vh;
 `;
